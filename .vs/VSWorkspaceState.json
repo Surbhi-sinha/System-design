@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\factory_pattern_creational_design"
+    "\\factory_pattern_creational_design",
+    "\\factory_pattern_creational_design\\factory_pattern_creational_design"
   ],
-  "SelectedNode": "\\factory_pattern_creational_design\\factory_pattern_creational_design.sln",
+  "SelectedNode": "\\factory_pattern_creational_design\\factory_pattern_creational_design\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
